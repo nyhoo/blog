@@ -44,3 +44,7 @@
 <!--start open-->
   [open]:[]
 <!--start open-->
+
+
+
+<!--when push error git remote set-url origin git@github.com:nyhoo/blog.git-->
