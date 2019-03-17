@@ -1,50 +1,19 @@
-# <center>blog
-* **[c++][c++]**
-  - **[concurrency][c++_concurrency]**
-  - **[c++国际化][c++_international]**
-  - **[c++模板库][c++_template]**
-  - **[c++1x特性][c++_feature]**
-* **[数据库][database]**
-* **[算法][algorithm]**
-* **[python][python]**
-* **[linux][linux]**
-* **[windows][windows]**
-* **[开源软件][open]**
+## 常用网址
+
+> + **搜索类**
+>[http://cnbtkitty.ws/][bk-kitty]
+>[https://www.shodan.io/][shodan]
+>[https://sg.search.yahoo.com/ ][yahoo]
+>[https://www.sogou.com/][sogou]
+>[https://www.so.com/][360]
 
 
+<!--搜索类-->
+[bk-kitty]:http://cnbtkitty.ws/                                  "种子搜索"
+[shodan]:https://www.shodan.io/                             "撒旦搜索"
+[yahoo]:https://sg.search.yahoo.com/                        "雅虎搜索" 
+[sogou]:https://www.sogou.com/                              "搜狗搜索"
+[360]:[https://www.so.com/]                                 "360搜索"
 
-<!--start algorithm-->
-  [algorithm]:[]
-<!--end algorithm-->
-
-<!--start c++-->
-  [c++]:[]
-  [c++_concurrency]:[]
-  [c++_international]:[]
-  [c++_template]:[]
-  [c++_feature]:[]
-<!--end c++-->
-
-<!--start database-->
-  [database]:[]
-<!--end database-->
-
-<!--start linux-->
-  [linux]:[]
-<!--start linux-->
-
-<!--start windows-->
-  [windows]:[]
-<!--start windows-->
-
-<!--start python-->
-  [python]:[]
-<!--start python-->
-
-<!--start open-->
-  [open]:[]
-<!--start open-->
-
-
-
-<!--when push error git remote set-url origin git@github.com:nyhoo/blog.git-->
+<!--文档类-->
+[rcf]:[https://www.rfc-editor.org/search/rfc_search.php]    "RCF"
